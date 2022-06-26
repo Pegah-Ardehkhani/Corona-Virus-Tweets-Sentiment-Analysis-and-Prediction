@@ -11,5 +11,5 @@
 [Kaggle link: Coronavirus tweets NLP](https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification)
 
 <p align="center">
-  <img width="500" height="250" src="https://ichef.bbci.co.uk/news/976/cpsprodpb/18570/production/_112869699_gettyimages-1209519827-1.jpg">
+  <img width="1000" height="300" src="https://github.com/Pegah-Ardehkhani/Corona-Virus-Tweets-Sentiment-Analysis-and-Prediction/blob/main/Wordcloud.PNG">
 </p>
